@@ -1,0 +1,8 @@
+.vercel
+.next
+.env
+test.ts
+node_modules
+.hintrc
+next-env.d.ts
+template.ts
